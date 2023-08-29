@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BackendApp.Type
 {
-    internal class windows : os, IOS
+    public class windows : os, IOS
     {
         public windows(string userfullname) : base(userfullname)
         {

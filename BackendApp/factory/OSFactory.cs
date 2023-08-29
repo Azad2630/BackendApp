@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BackendApp.factory
 {
-    internal class OSFactory
+    public class OSFactory
     {
         public IOS indentify(string minUserFolder)
         {

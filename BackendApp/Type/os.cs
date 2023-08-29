@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BackendApp.Type
 {
-    internal class os
+    public class os
     {
         public string UserFullName { get; set; }
 
